@@ -1,0 +1,22 @@
+node_modules/
+.expo/
+.expo-shared/
+dist/
+*.log
+.DS_Store
+*.pem
+.env
+.env.local
+
+# Android
+android/app/build/
+android/.gradle/
+*.apk
+*.aab
+
+# iOS
+ios/build/
+*.ipa
+
+# EAS
+.eas/
